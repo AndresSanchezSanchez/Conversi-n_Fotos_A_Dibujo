@@ -1,0 +1,3 @@
+En esta actividad se van a utilizar filtros espaciales y morfológicos con el objetivo de dar una apariencia de dibujo a fotos.
+
+Para ello se seguirá el siguiente esquema de proceder: 1. Umbralizar una foto con el objetivo de destacar ciertos bordes en la foto, que serán usados para dar apariencia de dibujo 2. Reducir la paleta de colores de una foto original, ya que las fotos constan con más colores que un dibujo 3. Realizar un desenfoque para hacer que la foto sea menos realista 4. Realizar un repujado para darle relieve a los bordes y dar más sensación de imagen artificial 5. Incorporar los bordes detectados en el paso 1 que unido al repujado de la foto, hará la foto más natural
